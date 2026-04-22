@@ -5,7 +5,7 @@
 ![DAX](https://img.shields.io/badge/DAX-Measures-green?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Model-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
- - Dashboard: <img width="1296" height="727" alt="Screenshot_1" src="https://github.com/user-attachments/assets/42c30e5e-d777-4dc5-a3fa-a991253908c2" />
+
 
 ---
 
