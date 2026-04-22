@@ -5,10 +5,6 @@
 ![DAX](https://img.shields.io/badge/DAX-Measures-green?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Model-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-![Power BI]https://github.com/Vikku018/green-beverages-powerbi/blob/bb232d538abf4e33aed111a77a5c214ff262bbdf/Screenshot_1.png
-
- - Dashboard: <img width="1296" height="727" alt="Screenshot_1" src="https://github.com/Vikku018/green-beverages-powerbi/blob/bb232d538abf4e33aed111a77a5c214ff262bbdf/Screenshot_1.png" />
-
 ---
 
 ## 📊 Dashboard Pages
@@ -19,6 +15,7 @@
 - Major Sourcing, Category, Vs PY NR%
 - Sunburst / Donut chart by Grade → Customer Type → Trade Type
 - Default filter: **Tea category**
+  <img width="1296" height="727" alt="Screenshot_1" src="https://github.com/Vikku018/green-beverages-powerbi/blob/bb232d538abf4e33aed111a77a5c214ff262bbdf/Screenshot_1.png" />
 
 ### Page 2 — Sales Overview
 - Net Revenue $MM, Total Bills, Total Customers
@@ -27,12 +24,15 @@
 - Treemap by product (color: green→red by value)
 - Customer Type donut
 - Product Category Volume bar chart
+  <img width="1296" height="727" alt="Screenshot_2" src="https://github.com/Vikku018/green-beverages-powerbi/blob/7a6ffa6e7262a3b627d17e057a38696c40723f46/Screenshot_2.png" />
 
 ### Page 3 — NR Analysis *(Most Critical)*
 - Year/Month matrix with NR, YTD, PY NR, vs PY NR, vs PY%
 - Month/Quarter/Year/Day slicers
 - KPI cards: NR Share%, Vs PY NR%, Discount%
 - Daily line chart: Net Revenue vs PY Net Revenue
+  
+  <img width="1296" height="727" alt="Screenshot_3" src="https://github.com/Vikku018/green-beverages-powerbi/blob/7a6ffa6e7262a3b627d17e057a38696c40723f46/Screenshot_3.png" />
 
 ---
 
