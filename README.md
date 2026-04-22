@@ -145,5 +145,5 @@ Discount%  = DIVIDE([Customer Grade Discount], [Gross Sales])
 
 - Built by Vikku Kumar
 - Role: Power BI Developer | Data Analyst
-- LinkedIn: [[Vikku-Kumar]](https://www.linkedin.com/in/vikku-kumar/)
+- LinkedIn: [Vikku-Kumar](https://www.linkedin.com/in/vikku-kumar/)
 - Email: vikku.kr98@gmail.com
