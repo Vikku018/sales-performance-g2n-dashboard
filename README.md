@@ -1,4 +1,4 @@
-# 🍃 Green Beverages — Power BI Dashboard
+# 🍃 Sales Performance & G2N Analytics Dashboard
 ### Sales & Revenue Analytics
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
