@@ -1,5 +1,5 @@
 # 🍃 Green Beverages — Power BI Dashboard
-### DataRoars Assignment | Sales & Revenue Analytics
+### Sales & Revenue Analytics
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Measures-green?style=for-the-badge)
